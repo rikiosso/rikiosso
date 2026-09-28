@@ -1,6 +1,6 @@
 ### Ricardo Álvarez-Ossorio Castro
 
-Tech lawyer · Coder. A year advising technology companies on EU regulation at Addleshaw Goddard in Madrid, now an LL.M. candidate at UC Law San Francisco.
+Tech lawyer · Agentic coding. A year advising technology companies on EU regulation at Addleshaw Goddard in Madrid, now an LL.M. candidate at UC Law San Francisco.
 
 I'm a lawyer, not an engineer. I build with Claude Code, and [the build notes](https://github.com/rikiosso/dualuse-classifier/blob/main/docs/how-it-was-built.md) are honest about what broke along the way.
 
