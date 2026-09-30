@@ -11,7 +11,7 @@ I build by directing Claude Code agents.
 
 **Osso Export**, free export-control tools under OSSO GLOBAL
 
-- **[Osso Export Classifier](https://osso.global)**. Describe a technology and it tells you whether it's on the EU dual-use list and which export authorisation applies. The model points at provisions and code quotes the EU text, so no answer can cite words the regulation doesn't contain. Its [benchmark](https://github.com/rikiosso/osso-export-classifier/tree/main/benchmark) publishes every test case and every miss.
+- **[Osso Export Classifier](https://osso.global)**. Describe a sensitive technology and it tells you whether it's on the EU dual-use list and which export authorisation applies. The model points at provisions and code quotes the EU text, so no answer can cite words the regulation doesn't contain. Its [benchmark](https://github.com/rikiosso/osso-export-classifier/tree/main/benchmark) publishes every test case and every miss.
 - **[Osso Export Watch](https://watch.osso.global)**. Every six hours it reads US and EU export-control sources and publishes a short note when something changes. [Published data](https://github.com/rikiosso/exports-watch)
 
 **Also building**
