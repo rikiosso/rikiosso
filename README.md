@@ -20,4 +20,4 @@ I build by directing Claude Code agents.
 
 Both tools use AI, so their answers must be reviewed by a qualified professional before use. Not legal advice.
 
-[LinkedIn](https://www.linkedin.com/in/ricardo-ossorio)
+[LinkedIn](https://www.linkedin.com/in/ricardo-ossorio) · [X](https://x.com/rikiosso)
