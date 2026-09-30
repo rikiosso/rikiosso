@@ -4,6 +4,11 @@ Tech lawyer · Agentic coding. A year advising technology companies on EU regula
 
 I build by directing Claude Code agents. The classifier's [benchmark](https://github.com/rikiosso/osso-export-classifier/tree/main/benchmark) publishes every test case and every miss.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rikiosso/osso-export-classifier/main/img/brand/osso-mark.svg">
+  <img src="https://raw.githubusercontent.com/rikiosso/osso-export-classifier/main/img/brand/osso-mark-espresso.svg" alt="Osso" width="40">
+</picture>
+
 **Osso Export**, free export-control tools under OSSO GLOBAL
 
 - **[Osso Export Classifier](https://osso.global)**. Describe a technology and it tells you whether it's on the EU dual-use list and which export authorisation applies. The model points at provisions and code quotes the EU text, so no answer can cite words the regulation doesn't contain. [Benchmark](https://github.com/rikiosso/osso-export-classifier/tree/main/benchmark)
