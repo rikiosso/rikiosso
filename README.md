@@ -2,6 +2,8 @@
 
 Tech lawyer · Agentic coding. A year advising technology companies on EU regulation at Addleshaw Goddard in Madrid, now an LL.M. candidate at UC Law San Francisco.
 
+KCL LLB (First Class) · IE dual master's · passed the Spanish bar exam (2026)
+
 I build by directing Claude Code agents.
 
 <picture>
