@@ -6,11 +6,12 @@ KCL LLB (First Class) · IE dual master's · passed the Spanish bar exam (2026)
 
 I build by directing Claude Code agents.
 
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rikiosso/osso-export-classifier/main/img/brand/osso-mark.svg">
   <img src="https://raw.githubusercontent.com/rikiosso/osso-export-classifier/main/img/brand/osso-mark-espresso.svg" alt="Osso" width="40">
 </picture>
-
+</p>
 
 **Osso Export**, free export-control tools under OSSO GLOBAL
 
