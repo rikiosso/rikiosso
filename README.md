@@ -8,8 +8,8 @@ I build by directing Claude Code agents.
 
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rikiosso/osso-export-classifier/main/img/brand/osso-mark.svg">
-  <img src="https://raw.githubusercontent.com/rikiosso/osso-export-classifier/main/img/brand/osso-mark-espresso.svg" alt="Osso" width="40">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rikiosso/rikiosso/main/osso-mark-dark.svg">
+  <img src="https://raw.githubusercontent.com/rikiosso/rikiosso/main/osso-mark-light.svg" alt="Osso" width="40">
 </picture>
 </p>
 
